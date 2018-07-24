@@ -1,0 +1,34 @@
+# Title --> Adding CSS Review
+#-------------------------------
+#
+# We write inline styles directly inside an element's tag, using which of the following attributes?
+1
+c
+
+# We usually embed internal styles in the <head> section of the HTML document, and they're defined within the  tag.
+2
+style
+
+# What is a downside to using internal styles on large projects?
+3
+a
+
+# Which method allows us to bring one or more style sheets into another style sheet?
+4
+b
+
+# What are the three methods for adding CSS to a page?
+5
+c
+
+# What file extension do we need to use when creating a style sheet?
+6
+b
+
+# What attribute specifies the relationship between the current HTML document and the linked document?
+7
+b
+
+# With an _ _ _ _ _ style sheet, we can change the look of an entire website with one file.
+8
+c
