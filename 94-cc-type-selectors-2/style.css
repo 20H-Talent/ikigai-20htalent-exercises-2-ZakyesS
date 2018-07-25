@@ -5,3 +5,7 @@ body {
 p {
     color: lightslategray;
 }
+header {
+    background-color: orange;
+    color: white;
+}
