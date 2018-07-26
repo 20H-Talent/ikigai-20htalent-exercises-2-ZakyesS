@@ -1,0 +1,23 @@
+# Title --> Adding CSS Review
+#-------------------------------
+#
+# Color Values Review
+# The RGBa color function:
+1
+c
+
+# An RGB color value defined in hexadecimal notation uses:
+2
+c
+
+# The color value steelblue is an example of which of the following?
+3
+a
+
+# In the rgb function, the value rgb(______ , ______ , ______) represents 100% white, while the value rgb( _____ , _____ , _____ ) represents 100% black.
+4
+255, 255, 255, 000, 000, 000
+
+# We can abbreviate the hex value #cc7733 to ______.
+5
+#c73
