@@ -5,3 +5,6 @@ header span.title {
 div.main-content h2 {
     font-size: 53px;
 }
+div.main-content {
+    width: 75%;
+}
