@@ -1,0 +1,38 @@
+# Title --> Basic Selectors Review
+# ---------------------------------
+#
+# Which selector targets every element on the page at once and applies the styles we set?
+1
+c
+
+# We define the universal selector with a(n) 
+2
+*
+
+# When targeting an element with a type selector:
+3
+a
+
+# Do IDs have browser functionality?
+4
+b
+
+# An element can only have  _______ ID, and a page can only have  ______ element with the same ID name.
+5
+an
+
+# Which selectors have the most specificity and carry the most weight?
+6
+d
+
+# A descendant selector consists of:
+7
+d
+
+# Which of the following are common CSS pseudo-classes?
+8
+c
+
+# You create a class selector with a ____ character. 
+9
+.
