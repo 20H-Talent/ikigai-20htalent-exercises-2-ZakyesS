@@ -1,0 +1,30 @@
+# Title --> Fonts and Line Height Review
+# ---------------------------------
+#
+# The  _____ property lets us specify the font for an element.
+1
+font-family
+
+# A prioritized list of fonts the browser cycles through until it finds a font installed on a user’s computer is called a:
+2
+c
+
+# A unitless line-height value is relative to:
+3
+b
+
+#  It’s usually a best practice to define line-height as: 
+4
+d
+
+# Line-height is what defines:
+5
+a
+
+# How does the browser determine the line height in the following rule?
+6
+c
+
+# In the font shorthand declaration above, _____  is the font-size value and _____ is the line-height value.
+7
+1em, 1.5
