@@ -3,3 +3,7 @@
     font-size: 1.25em;
     line-height: 2;
 }
+.intro span {
+    font-weight: bold;
+    font-style: italic;
+}
