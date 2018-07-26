@@ -5,3 +5,6 @@ header span {
 .main-content p {
     font-weight: bold;
 }
+footer p {
+    color: slategrey;
+}
