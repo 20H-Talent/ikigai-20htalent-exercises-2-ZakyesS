@@ -2,3 +2,6 @@
 header span {
     font-size: 26px;
 }
+.main-content p {
+    font-weight: bold;
+}
