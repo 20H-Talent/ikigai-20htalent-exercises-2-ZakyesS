@@ -6,6 +6,7 @@
 3. **Basic Selectors Review**
 4. **Color Values Review**
 5. **Fonts and Line Height Review**
+6. **The Box Model Review**
 
 ---
 ---
@@ -50,4 +51,11 @@
     3. Next, give *intro* a unitless *line-height* that's 1.6 times larger than the *font-size* value.
     4. Create a new rule that targets the *span* element inside *.intro*. Give the *span* element a bold font weight and an italic font style.
     5. Finally, create a new rule that removes the underline from all unvisited links on the page.
+---
+8. **Padding, Borders, and Margins**
+    1. Let's style parts of the Lake Tahoe website using padding, borders, and margins. First, target the class *primary-content*. Set the top padding to 25 pixels and the bottom padding to 95 pixels.
+    2. Next, give the *.wildlife* div a *solid*, *orange* top border that's *10px* wide.
+    3. Target the *.secondary-content* div. Set the top padding to 80 pixels and the bottom padding to 70 pixels.
+    4. Let's separate the *.wildlife* container from the content above it. Give *.wildlife* a top margin of 105 pixels.
+    5. Finally, give the *.secondary-content* element a dotted, *lightgrey* bottom border that's *2px* wide.
 ---
