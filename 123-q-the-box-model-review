@@ -1,0 +1,35 @@
+# Title --> The Box Model Review
+# ---------------------------------
+#
+# What is the order of values in the following shorthand property?
+padding: 10px 20px 10px 20px;
+1
+b
+
+# The _______ area creates space inside the box, while the _______ area creates space outside and around the box. 
+2
+c
+
+# In the CSS box model, what is the innermost area of a "box"?
+3
+c
+
+# Which type of elements only take up as much width as they need?
+4
+a
+
+# Write the declaration that will turn off the display for .featured-img: .featured-img {   _______: _______; }
+5
+d
+
+# When we use the margin value _________, the browser automatically calculates the margins for each side.
+6
+b
+
+# The same order of values in the padding property applies to the margin shorthand property. e.g. padding: top, right, bottom, left;
+7
+a
+
+# What type of elements take up the full width available based on the width of their parent element?
+8
+d
