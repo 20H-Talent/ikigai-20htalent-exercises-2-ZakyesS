@@ -7,6 +7,7 @@
 4. **Color Values Review**
 5. **Fonts and Line Height Review**
 6. **The Box Model Review**
+7. **Basic Layout Review**
 
 ---
 ---
@@ -58,4 +59,16 @@
     3. Target the *.secondary-content* div. Set the top padding to 80 pixels and the bottom padding to 70 pixels.
     4. Let's separate the *.wildlife* container from the content above it. Give *.wildlife* a top margin of 105 pixels.
     5. Finally, give the *.secondary-content* element a dotted, *lightgrey* bottom border that's *2px* wide.
+---
+9. **Styling the "Wildlife" div with Background Properties**
+    1. Create a new rule that targets the class 'wildlife'. Set the *bear.jpg* image, located in the *img* folder, as the background image.
+    2. Next, define the background property and value that prevents a background image from repeating in any direction.
+    3. Next, position the background image in the center of the '.wildlife' element.
+    4. Add a *background-size* property. Set a value that fills the entire background of the container while maintaining the width and height proportions.
+    5. Finally, give *.wildlife* the *box-sizing* property and value that forces any padding and border widths into its total width and height.
+---
+10. **Floats**
+    1. Create a new rule that targets the *.content-lodging* div. Add the property and value that takes *.content-lodging* out of the normal page flow and places it along the right side of its container.
+    2. Next, create a new rule that targets *.content-traveling*. Add the property and value that takes *.content-traveling* out of the normal page flow and places it along the left side of its container. 
+    3. In the preview, notice how the floats made the parent container's height collapse. In the HTML file, give the *.secondary-content* div the specified class for clearing floats.
 ---
