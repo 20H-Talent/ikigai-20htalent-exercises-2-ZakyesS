@@ -1,0 +1,34 @@
+# Title --> Basic Layout Review
+# ---------------------------------
+#
+# Which CSS property do we use to prevent content from becoming wider than a certain width? 
+1
+c
+
+# How does the browser calculate an element's total width value?
+2
+a
+
+# Which background-repeat value repeats a background image horizontally? 
+3
+b
+
+# Which of the following properties and values will take .main out of the normal page flow and place it along the left side of its container?
+4
+a
+
+# The _______ property can alter the way a browser calculates the total width of an element.
+5
+a
+
+# Which box-sizing value forces any padding and border-width values into the width and height of an element?
+6
+a
+
+# Which background-size value displays the full image while maintaining the width and height proportions? 
+7
+a
+
+# If we specify one background-position value, what will the browser assume is the vertical position value?
+8
+c
