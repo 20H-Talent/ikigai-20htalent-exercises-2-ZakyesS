@@ -72,3 +72,15 @@
     2. Next, create a new rule that targets *.content-traveling*. Add the property and value that takes *.content-traveling* out of the normal page flow and places it along the left side of its container. 
     3. In the preview, notice how the floats made the parent container's height collapse. In the HTML file, give the *.secondary-content* div the specified class for clearing floats.
 ---
+11. **Text Shadows and Box Shadows**
+    1. Create a new rule that targets *.main-heading*. Give the heading a text shadow by setting the horizontal and vertical offsets to *0*, the blur radius to *5px*, and the color to the hex value *be7b31*. 
+    2. Next, create a new rule that targets *.title*. Let's also give *.title* a text shadow by setting the horizontal offset to *1px*, the vertical offset to *3px*, the blur radius to *0*, and the color to *#e59740*. 
+    3. Create a rule that targets *.main-header*. This time, we'll give *.main-header* a box shadow. Set the box shadow's horizontal offset to *0*, the vertical offset to *2px*, the blur radius to *15px*, and the color to *#aaa*. 
+    4. Just like the *text-shadow* property the *box-shadow* can take multiple comma-seperated values to add additional shadows to the same element.
+
+        - Let's give *.main-header* an inner-shadow with a second set of *box-shadow* values. Set the new shadow's horizontal and vertical offsets to *0*, the blur radius to *60px*, the spread radius to *5px*, and the color to *firebrick*. Don't forget to include the keyword value that creates an inner box shadow.
+---
+12. **Border Radius**
+    1. Let's give the *.wildlife* div rounded corners! Add the shorthand property for setting rounded corners. Set the top-left border radius to 20px, the top-right radius to *5px*, the bottom-right radius to *20px*, and the bottom-left radius to *5px*.
+---
+
