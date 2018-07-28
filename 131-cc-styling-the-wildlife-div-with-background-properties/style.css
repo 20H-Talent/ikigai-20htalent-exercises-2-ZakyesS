@@ -2,4 +2,5 @@
 .wildlife {
     background-image: url('img/bear.jpg');
     background-repeat: no-repeat;
+    background-position: center;
 }
