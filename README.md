@@ -9,6 +9,7 @@
 6. **The Box Model Review**
 7. **Basic Layout Review**
 8. **Multiple Backgrounds and Web Fonts Review**
+9. **Fundamental Concepts Review**
 
 ---
 ---
