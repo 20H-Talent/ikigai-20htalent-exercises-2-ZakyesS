@@ -8,6 +8,7 @@
 5. **Fonts and Line Height Review**
 6. **The Box Model Review**
 7. **Basic Layout Review**
+8. **Multiple Backgrounds and Web Fonts Review**
 
 ---
 ---
@@ -83,4 +84,13 @@
 12. **Border Radius**
     1. Let's give the *.wildlife* div rounded corners! Add the shorthand property for setting rounded corners. Set the top-left border radius to 20px, the top-right radius to *5px*, the bottom-right radius to *20px*, and the bottom-left radius to *5px*.
 ---
-
+13. **Gradients**
+    1. Create a new rule that targets *.main-header*.
+    2. Next, add a *background-image* property and define a linear gradient function as the value.
+    3. Set the gradient's first color stop to *steelblue* and the second color stop to *darkslateblue*.
+    4. Set the second color stop's position to 90%. Then, add the value that sets the gradient direction from bottom to top.
+---
+14. **Media Queries**
+    1. Create a media query that targets all devices when the viewport width is *1020px* or less. Inside the media query, select the *.main-header* element. Set the background color to *tomato* and the text color to *white*. 
+    2. Next, create a new media query that targets all devices when the viewport width is *768px* or narrower. Inside the media query, target the *.title* element and set the font-size to *1.4rem*. Finally, target the *h1* element and set its font-size to *5rem*.
+---
