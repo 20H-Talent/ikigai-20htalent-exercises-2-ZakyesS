@@ -1,0 +1,9 @@
+/* Complete the challenge by writing CSS below */
+
+
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
