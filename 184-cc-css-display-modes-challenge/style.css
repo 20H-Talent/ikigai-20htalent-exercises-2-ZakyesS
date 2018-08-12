@@ -10,3 +10,6 @@ header {
 .main-nav li {
     display: inline;
 }
+.main-nav {
+    display: inline-block;
+}
