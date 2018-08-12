@@ -2,6 +2,9 @@
 .footer-nav {
     float: left;
 }
+.footer-nav li {
+    float: left;
+}
 .logo {
     float: right;
 }
