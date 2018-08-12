@@ -1,0 +1,22 @@
+# Title --> Float Property Review
+# ---------------------------------
+#
+# What usually happens to the parent container of floated elements? 
+1
+d
+
+# By default, browsers display elements in the order they appear in the HTML source. This order is called the: 
+2
+a
+
+# How do elements appear when they are in the normal document flow?
+3
+d
+
+# When you apply a float to an element, the element gets taken out of the normal document flow and shifted to the left or right side of its container. 
+4
+a
+
+# Which of the following methods will clear the floats in a container? 
+5
+e
