@@ -1,0 +1,14 @@
+# Title --> Art Direction
+# ---------------------------------
+#
+# What is art direction?
+1
+d
+
+# In our layout, we're serving a banner image at the top of the page. If we also have a square cropped version that can be served, then in which orientation would this image (the banner image shown here) work best?
+2
+b
+
+# When using the srcset attribute on an image element, Chrome will always use the lowest resolution image in the cache. 
+3
+b
