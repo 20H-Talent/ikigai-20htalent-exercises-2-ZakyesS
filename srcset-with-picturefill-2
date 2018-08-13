@@ -1,0 +1,18 @@
+# Title --> Srcset with Picturefill
+# ---------------------------------
+#
+# What is a polyfill?
+1
+c
+
+# When using the srcset attribute, it's up to browser vendors to make the most intelligent choice about which file to deliver. Why might this be desirable behavior when we could instead maintain full control over image source selection using the picture element?
+2
+b
+
+# How does the srcset attribute differ from the src attribute? 
+3
+a
+
+#  When using a polyfill, what happens to browsers that have native support for the polyfilled feature?
+4
+a
