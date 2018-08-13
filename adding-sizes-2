@@ -1,0 +1,18 @@
+# Title --> Adding Sizes
+# ---------------------------------
+#
+# The sizes attribute takes one or more CSS media conditions and ending with a length unit.
+1
+a
+
+# What does the sizes attribute indicate to the browser?
+2
+c
+
+# What's the difference between the length values in the srcset attribute versus the media conditions and length values in the sizes attribute? 
+3
+b
+
+# If an image is 1000px wide and displayed @2x, how many CSS pixels wide will it be in the layout? 
+4
+a
