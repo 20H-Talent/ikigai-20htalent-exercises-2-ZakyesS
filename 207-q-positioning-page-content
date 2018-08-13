@@ -1,0 +1,30 @@
+# Title --> Positioning Page Content
+# ---------------------------------
+#
+# Fixed positioning is a form of relative positioning that places elements in relation to their parent container. 
+1
+b
+
+# What are three values the position property accepts?
+2
+a
+
+# The offset top: 50px; will place an absolutely positioned element:
+3
+a
+
+# What property adjusts the stacking order of relative, absolute, and fixed positioned elements?
+4
+b
+
+# Positioned elements written later in the source code appear below elements that are written earlier.
+5
+b
+
+# You can apply a z-index only to elements positioned absolute. 
+6
+b
+
+# An element with absolute positioning is always relative to:
+7
+d
