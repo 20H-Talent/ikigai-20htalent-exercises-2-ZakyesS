@@ -232,4 +232,16 @@
         4. After the *textarea*, create a button element. Between the button tags, write the text *Submit Comment*. Don't add any attributes yet.
         5. On the button element created in the last step, add a *type* attribute with the value *submit*.
     ---
-    10. 
+    10. **Add Labels**
+        1. Create a label with a *for* attribute that matches the input element's ID. Between the label tags, write the text *Name:*.
+        2. Now create a label for the *textarea* element, and give it the text *Comment:*.
+        3. After the name field, add another input for email addresses. Set the *type* attribute to *email*, the *id* attribute to *email*, and the name to *user_email*.
+        4. Create a label for the email field with the text *Email:*.
+    ---
+    11. **Add Fieldsets and Legends**
+        1. Create a *fieldset* element that wraps the name and email fields.
+        2. Create another *fieldset* element that wraps the comment field.
+        3. Add a *legend* element to the first *fieldset* and give it the text *Tell us about yourself.*
+        4. Add another *legend* element to the second *fieldset* and give it the text *What's on your mind?*
+    ---
+    12. 
