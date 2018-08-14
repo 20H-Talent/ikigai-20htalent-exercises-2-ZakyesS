@@ -207,4 +207,29 @@
     5. **Add a Table Caption Element**
         1. Add a caption element that says "Employee Data".
     ---
-    6. 
+    6. **Create a Form Element**
+        1. Create a form element. Don't add any attributes yet.
+        2. Add an *action* attribute to the form element with the value *index.html*.
+        3. Add a *method* attribute to the form element with the value *post*.
+    ---
+    7. **Create a Text Input**
+        1. Create a form element with an *action* attribute set to *index.html* and the *method* attribute set to *post*.
+        2. Inside the form element, add an input with the *type* attribute set to the value *text*. Don't add any other attributes yet.
+        3. On the input created in the last step, add an *id* attribute with the value *name*.
+        4. Now, add a *name* attribute to the input. Set its value to *user_name*.
+    ---
+    8. **Create a Textarea**
+        1. Create a form element with an *action* attribute set to *index.html* and the *method* attribute set to *post*.
+        2. Add a text input with the *id* attribute set to *name* and the *name* attribute set to *user_name*.
+        3. After the input element, add a *textarea* element. Don't add any attributes yet.
+        4. On the *textarea* element, add an *id* attribute and set the value to *comment*.
+        5. On the *textarea* element, add a *name* attribute and set the value to *user_comment*.
+    ---
+    9. **Create a Submit Button**
+        1. Create a form element with an *action* attribute set to *index.html* and the *method* attribute set to *post*.
+        2. Add a text input with the *id* attribute set to *name* and the *name* attribute set to *user_name*.
+        3. After the input, add a *textarea* with the *id* attribute set to *comment* and the *name* attribute set to *user_comment*.
+        4. After the *textarea*, create a button element. Between the button tags, write the text *Submit Comment*. Don't add any attributes yet.
+        5. On the button element created in the last step, add a *type* attribute with the value *submit*.
+    ---
+    10. 
