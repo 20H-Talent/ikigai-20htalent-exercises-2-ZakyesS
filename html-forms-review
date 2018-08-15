@@ -1,0 +1,42 @@
+# Title --> HTML Forms Review 
+# ---------------------------------
+#
+# If you want the user to be able to choose more than one item from a predefined set of choices, what's the best form control to use?
+1
+b
+
+# Which of the following is an HTTP method that can be used in the method attribute on a form?
+2
+b
+
+# Which of the following elements should be nested inside of the <select> element?
+3
+b
+
+# Which of the following elements will render a radio button? 
+4
+b
+
+# Which HTML form element allows for multiple lines of text to be entered by the user? 
+5
+d
+
+# Which of the following attributes can be used to group radio buttons together? 
+6
+c
+
+# What is the purpose of the <fieldset> element?
+7
+b
+
+# You can have forms nested inside other forms.
+8
+b
+
+# What is generally the most commonly used and most versatile form element?
+9
+a
+
+# Which of the following two attributes are attached to the <form> element?
+10
+d
