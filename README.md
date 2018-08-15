@@ -180,7 +180,8 @@
 
     # _Reviews_
     1. **HTML Tables Review**
-    2. 
+    2. **HTML Forms Review**
+    3. 
 
     ---
     ---
@@ -244,4 +245,22 @@
         3. Add a *legend* element to the first *fieldset* and give it the text *Tell us about yourself.*
         4. Add another *legend* element to the second *fieldset* and give it the text *What's on your mind?*
     ---
-    12. 
+    12. **Create a Select Menu**
+        1. Below the `<h1>` element, create a *select* element with the ID of "color" and the name "shirt_color". Don't add any options yet.
+        2. Add the following options to the select menu: *Red, Yellow, Purple, Blue, Green, and Orange*. Each option should have a *value* attribute. Set each *value* attribute to the same color name, but in all lowercase. Example: `value="blue"`
+        3. Add a label element to the select menu with the text `"Shirt Color:"`.
+        4. Add a submit button with the text "Place Order".
+    ---
+    13. **Create Radio Buttons**
+        1. After the select menu, create a radio button with the ID *small*, the value *small*, and the name *shirt_size*. Don't add a label or line breaks yet.
+        2. In the same radio button group, add two more radio buttons for medium and large shirt sizes. Don't add a label or line breaks yet.
+        3. Add a label above the radio button group that says *Shirt Size:*. Don't associate it with any specific element.
+        4. Create and associate a label with each of the 3 shirt size radio buttons. Give them the text *Small*, *Medium*, and *Large*.
+        5. Add a line break element after each shirt size label.
+    ---
+    14.  **Create Checkboxes**
+        1. After the radio button group, create a checkbox with the ID *shipping* and the value *fast_shipping*. Don't add any labels or line breaks yet.
+        2. Create another checkbox with the ID *newsletter* and the value *subscribe*. Don't add any labels or line breaks yet.
+        3. Add labels for the two checkboxes that say *Fast Shipping* and *Subscribe to Newsletter*. Then add line breaks after the labels.
+    ---
+    15. 
