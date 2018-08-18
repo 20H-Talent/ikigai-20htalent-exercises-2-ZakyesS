@@ -1,5 +1,7 @@
 /* Write the CSS in the media query below */
 
 @media (min-width: 607px) {
-  
+  img {
+        float: left;
+    }
 }
