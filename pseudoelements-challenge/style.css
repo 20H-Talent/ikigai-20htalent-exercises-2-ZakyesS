@@ -1,6 +1,7 @@
 /* Complete the challenge by writing CSS below */
 
 .progbar::after {
+    content: "";
     display: block;
     width: 50%;
     height: 100%;
