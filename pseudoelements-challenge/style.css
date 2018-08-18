@@ -9,8 +9,8 @@
     background-color: #5ece7f; 
 }
   
-.progbar {
-    
+.progbar::before {
+    content: "";
     display: block;
     width: 24px;
     height: 24px;
