@@ -181,7 +181,10 @@
     # _Reviews_
     1. **HTML Tables Review**
     2. **HTML Forms Review**
-    3. 
+    3. **Attribute Selectors and Combinators Review**
+    4. **Structural and Element States Pseudo-Classes Review**
+    5. **Advanced Selectors Review**
+    6. 
 
     ---
     ---
@@ -263,4 +266,36 @@
         2. Create another checkbox with the ID *newsletter* and the value *subscribe*. Don't add any labels or line breaks yet.
         3. Add labels for the two checkboxes that say *Fast Shipping* and *Subscribe to Newsletter*. Then add line breaks after the labels.
     ---
-    15. 
+    15. **Attribute Selectors Challenge**
+        1. Create an attribute selector that targets *img* elements with a *title* attribute value of 'avatar'. Give the elements a border radius of 50%.
+        2. Next, create a new attribute selector that targets *input* elements with a *type* attribute value of *password*. Then, set the color to `#ccc`.
+        3. Finally, write a new attribute selector that targets *input* elements with a *type* attribute value of *submit*. Then, set the background color to `#52bab3`.
+    ---
+    16. **Combinators Challenge**
+        1. Create a child selector that targets *li* elements that are direct children of .*main-nav*. Set the display to *inline-block* and the left margin to *20px*.
+        2. It looks like we need to decrease the space between *h2* elements and the paragraph that immediately follows. Create a new selector that targets *p* elements that are adjacent siblings of an *h2*. Then, set the top margin to .*5em*.
+    ---
+    17. __:first-child and :last-child Challenge__
+        1. Create a pseudo-class selector that targets the first-child *li* in .*main-nav*. Remove all border styles by setting *border* to *none*. Then, set the top-left and bottom-left *border-radius* to *5px*. 
+        2. Next, create a new pseudo-class selector that targets the last-child *li* in .*main-nav*. Give it a top-right and bottom-right *border-radius* of *5px*.
+    ---
+    18. **Substring Matching Attribute Selectors Challenge**
+        1. Create a selector that targets an *img* element if its *title* value begins with 'product-'. Set the border color to *lightblue*.
+        2. Next, create a new selector that targets an *a* element if its *href* value ends with '.html'. Set its *text-decoration* to *none*.
+        3. Finally, create a new selector that targets an *img* element if its *src* value contains the word 'preview'. Then, set its *width* to *100%*.
+    ---
+    19. __:nth Pseudo-Class Challenge__
+        1. Inside the media query, create a new rule that targets *img* elements. Then, float the images *left*.
+        2. We want three floated images per row. In the media query, create a pseudo-class selector that targets the fourth *img* child element first, then every third *img* that follows. Then, add a *clear* property that clears the left float.
+        3. Hey, nice job! To see which combination of images we selected, give them a different *border-color* value –– any color you want. Don't forget to preview before you click 'check work'.
+    ---
+    20. __:nth Pseudo-Class Challenge - Pt. 2__
+        1. It looks like an `<h1>` made its way inside the parent *body*. Now our :*nth-child* selector no longer targets the desired combination of *img* child elements. Replace :*nth-child* with the pseudo-class that only targets a specific type of child element.
+    ---
+    21. **Pseudo-Elements Challenge**
+        1. Let's use pseudo-elements to create a progress bar from a single element. First, in the top .*progbar* selector, add the pseudo-element that will insert content after the element.
+        2. In the same rule, add the property that lets us insert content into an element. The value should be an empty set of quotes.
+        3. Next, in the second .*progbar* selector, add the pseudo-element that will insert content *before* the element. Don't forget to write the *content* declaration on *line 13*.
+        4. Finally, create a new rule that will insert a pseudo-element *after* an *a* element. As the *content* value, define a CSS function that will insert an *href* attribute's value as content.
+    ---
+    22. 
