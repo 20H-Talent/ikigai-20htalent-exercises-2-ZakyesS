@@ -2,3 +2,6 @@
 img[title="avatar"] {
     border-radius: 50%;
 }
+input[type="password"] {
+    color: #ccc;
+}
