@@ -1,0 +1,22 @@
+# Title --> Structural and Element States Pseudo-Classes Review
+#-------------------------------
+#
+# When might be a good time to take advantage of substring matching attribute selectors or structural pseudo-classes?
+1
+d
+
+# What pseudo-class can we use to target the nested span element below: <div>Item <span>2</span></div> 
+2
+c
+
+# The  ____ pseudo-class can target the checked state of a radio button or checkbox.
+3
+:checked
+
+# The  ____ pseudo-class selects UI elements that are in a disabled state.
+4
+:disabled
+
+#Which of the following pseudo-classes can we use to target elements with no child content? 
+5
+c
