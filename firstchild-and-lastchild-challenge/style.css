@@ -3,3 +3,6 @@
     border: none;
     border-radius: 5px 0;
 }
+.main-nav li:last-child {
+    border-radius: 0 5px 5px 0;
+}
