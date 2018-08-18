@@ -5,3 +5,6 @@ img[title^="product-"] {
 a[href$=".html"] {
     text-decoration: none;
 }
+img[src*="preview"] {
+    width: 100%;
+}
