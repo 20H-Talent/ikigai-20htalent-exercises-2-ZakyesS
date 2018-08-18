@@ -2,3 +2,6 @@
 img[title^="product-"] {
     border-color: lightblue;
 }
+a[href$=".html"] {
+    text-decoration: none;
+}
