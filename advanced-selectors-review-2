@@ -1,0 +1,26 @@
+# Title --> Advanced Selectors Review
+#-------------------------------
+#
+# The top-most element in an HTML document is the ____  element. We're able to target that element with the  ____  pseudo-class.
+1
+HTML, :root
+
+# The  _____  pseudo-class matches an element when it's the target of a link.
+2
+:target
+
+# How is generated content rendered in the browser? 
+3
+c
+
+# Do pseudo-elements appear in the source code?
+4
+b
+
+# We can use the  ______  pseudo-element to style the first rendered line of text in a paragraph.
+5
+::first-line
+
+# The  ______ pseudo-class is called a negation pseudo-class because it doesn't target the elements specified in the argument.
+6
+:not()
