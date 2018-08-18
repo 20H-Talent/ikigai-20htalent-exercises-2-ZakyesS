@@ -5,3 +5,6 @@ img[title="avatar"] {
 input[type="password"] {
     color: #ccc;
 }
+input[type="submit"]{
+    background-color: #52bab3;
+}
