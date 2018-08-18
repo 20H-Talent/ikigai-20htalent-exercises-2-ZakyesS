@@ -1,0 +1,22 @@
+# Title --> Attribute Selectors and Combinators Review
+#-------------------------------
+#
+# Which of the following statements about child selectors is true?
+1
+c
+
+# The adjacent sibling selector uses a  _____ as its combinator.
+2
++
+
+# "DRY" stands for: 
+3
+b
+
+# What are three combinators we can use in CSS selectors?
+4
+d
+
+# The general sibling selector uses a  _____ as its combinator.
+5
+~
