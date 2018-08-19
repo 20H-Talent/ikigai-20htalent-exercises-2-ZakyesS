@@ -184,7 +184,9 @@
     3. **Attribute Selectors and Combinators Review**
     4. **Structural and Element States Pseudo-Classes Review**
     5. **Advanced Selectors Review**
-    6. 
+    6. **Flexbox Basics Review**
+    7. **Flexbox Properties Review**
+    8. **Building a Layout with Flexbox**
 
     ---
     ---
@@ -298,4 +300,21 @@
         3. Next, in the second .*progbar* selector, add the pseudo-element that will insert content *before* the element. Don't forget to write the *content* declaration on *line 13*.
         4. Finally, create a new rule that will insert a pseudo-element *after* an *a* element. As the *content* value, define a CSS function that will insert an *href* attribute's value as content.
     ---
-    22. 
+    22. **Flex Container Challenge**
+        1. The first step to using flexbox is creating a flex container. Target .*main-nav* and make it a flex container.
+    ---
+    23. **Wrapping Items and Distributing Space**
+        1. First, make .*row* a flex container.
+        2. Next, give .*row* the flexbox property and value that will make it a multi-line flex container.
+        3. Finally, let's distribute the available space inside .*row*. Give .*row* the flexbox property and value that will place the first and last items along its edges, then equally distribute the space between the other items.
+    ---
+    24. **Growing and Aligning Flex Items**
+        1. Select the class .*column* and use the flex item property and value that will expand the columns to fill the space of the row.
+        2. Next, target .*primary* and assign it twice as much free space as the other flex items.
+        3. Finally, align the columns to the vertical center of .*row*. Use the flex container property that controls alignment on the cross axis.
+    ---
+    25. **Flexbox Columns Challenge**
+        1. Let's display equal -- but flexible -- widths for the columns. Create a new rule that targets the columns. Then, set the columns to evenly expand and display on one line, with an initial width of *300px*.
+        2. The columns should break to multiple lines when they're narrower than 300px. Give .*row* the flexbox property and value that will make it a multi-line flex container.
+    ---
+    26. 
