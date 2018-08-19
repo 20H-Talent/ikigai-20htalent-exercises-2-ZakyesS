@@ -1,0 +1,22 @@
+# Title --> Building a Layout with Flexbox
+#-------------------------------
+#
+# How will .nav__item--home appear in the browser?
+1
+a
+
+# The flex property is the shorthand for:
+2
+b
+
+# Which of the following rules aligns the buttons with the bottom edge of a column, regardless of the amount of content inside the column?
+3
+b
+
+# Can an element be both a flex item and a flex container?
+4
+a
+
+# How will the child elements of body appear in the browser? 
+5
+a
