@@ -1,4 +1,5 @@
 /* Complete the challenge by writing CSS below */
 .row {
     display: flex;
+    flex-wrap: wrap;
 }
