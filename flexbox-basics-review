@@ -1,0 +1,26 @@
+# Title --> Flexbox Basics Review 
+#-------------------------------
+#
+# The first step in any flexbox layout is to create a:
+1
+b
+
+# Flexbox is a CSS property. 
+2
+b
+
+# Every direct child of a flex container is called a:
+3
+c
+
+# Flexbox follows two axes that determine the layout direction of flex items. Everything in a flexbox layout is relative to the: 
+4
+b
+
+# Which of the following is an example of what you can do with flexbox?
+5
+a
+
+# Which axis defines the primary direction of flex items inside a flex container? 
+6
+a
