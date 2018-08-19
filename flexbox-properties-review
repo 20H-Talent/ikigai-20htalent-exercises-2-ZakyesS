@@ -1,0 +1,26 @@
+# Title --> Flexbox Properties Review
+#-------------------------------
+#
+# Which of the following rules will display the layout shown in the image?
+1
+b
+
+# Which of the following aligns the first and last flex items to the edges of the flex container, then equally distributes the space between the remaining flex items?
+2
+a
+
+# Given the example image above, which of the following declarations will adjust the layout by breaking into multiple lines?
+3
+a
+
+# Which of the following will place "Item D" before "Item A"? 
+4
+a
+
+# Given the image above, which of the following declarations assigns equal space to the three columns?
+5
+a
+
+# Which of the following declarations changes a flexbox layout from horizontal to vertical?
+6
+c
