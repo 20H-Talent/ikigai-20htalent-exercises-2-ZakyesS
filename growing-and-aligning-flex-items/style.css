@@ -2,6 +2,7 @@
 
 .row {
   display: flex;
+  align-content: center;
 }
 .column {
   flex-grow: 1;
