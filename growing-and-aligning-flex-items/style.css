@@ -1,5 +1,8 @@
 /* Complete the challenge by writing CSS below */
 
 .row {
-    display: flex;
-  }
+  display: flex;
+}
+.column {
+  flex-grow: 1;
+}
