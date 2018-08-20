@@ -21,7 +21,7 @@ function createCoins() {
 function createPlatforms() {
     platforms = game.add.physicsGroup();
 
-    platforms.create(300, 100, 'platform');
+    platforms.create(300, 200, 'platform');
     platforms.create(400, 450, 'platform');
     platforms.create(100, 450, 'platform');
 
