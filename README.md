@@ -324,11 +324,21 @@
     1. **JavaScript is Everywhere Review**
     2. **How JavaScript Runs Review**
     3. **Build Tools and Workflows Review**
+    4. **Welcome to Web Programming**
+    5. **What have you learned about programming?**
+    6. **Review Your Progress**
 
     ---
     ---
     
     # _Challenges_
 
-    1.  
+    1. **Modifying Values** 
+        1. Modify the *platforms.create* command on line 24 to move the platform 100 pixels down, making the new coordinates (300, 200).
+        2. Let's change one of the platforms to a be different type. Modify the *platforms.create* command on line 25 to use the string 'platform2' instead of 'platform'.
     ---
+    2. **Final Code Challenge**
+        1. Click the preview button to view the game. Currently, there are 3 stars on screen. Click the Editor button and add two more stars, bringing the total number of stars to 5. Make sure none of the stars overlap with any other stars.
+        2. There are bottles of poison on screen. The player's life goes up when the player touches a bottle of poison. Change the game so the player's life count decreases by one when a bottle of poison is touched. Hint: the code to change is between lines 71 and 78.
+    ---
+    3. 
