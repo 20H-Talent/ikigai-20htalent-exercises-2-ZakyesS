@@ -1,0 +1,30 @@
+# Title --> Build Tools and Workflows Review
+# ---------------------------------
+#
+# What tool combines all of your source code and its dependencies into a single, minified JavaScript file before it's served to the browser?
+1
+c
+
+# Anything you might do manually over and over again could be automated and handed off to a: 
+2
+a
+
+# What tool installs and keeps track of all the dependencies of a project? 
+3
+c
+
+# For larger, more advanced applications developers usually set up a ________ to automate their workflow, increase efficiency, and build projects faster.
+4
+a
+
+# The ___________ gives you control over the functionality of a computer, that way you can install and run packages, libraries and build tools quickly and efficiently.
+5
+d
+
+# A ______ translates source code written using a special type of syntax into code that can work in the browser.
+6
+c
+
+# Which of the following is a popular JavaScript library built and maintained by Facebook?
+7
+c
