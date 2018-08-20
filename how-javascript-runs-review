@@ -1,0 +1,26 @@
+# Title --> How JavaScript Runs Review
+# ---------------------------------
+#
+# What type of programming language is JavaScript?
+1
+b
+
+# In JavaScript, you can manipulate almost everything at runtime. 
+2
+a
+
+# Every browser has its own implementation of:
+3
+c
+
+# V8 is a powerful, open source JavaScript engine for which browser?
+4
+d
+
+# Besides the browser, what is another common JavaScript runtime environment?
+5
+c
+
+# A _____ reads your code to check for code style consistency as well as spot possible errors.
+6
+b
