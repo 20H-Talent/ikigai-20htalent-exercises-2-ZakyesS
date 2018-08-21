@@ -1,0 +1,26 @@
+# Title --> Introduction to Sass Review
+# ---------------------------------
+#
+# Do browsers understand Sass syntax?
+1
+b
+
+# Sass supports which two syntaxes?
+2
+a
+
+# What is Sass? 
+3
+d
+
+# What is a preprocessor?
+4
+c
+
+# Plain CSS syntax is valid SCSS.
+5
+a
+
+The command we use to install Ruby Sass is:  ________
+6
+gem install sass
