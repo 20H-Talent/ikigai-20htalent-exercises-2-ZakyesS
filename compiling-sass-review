@@ -1,0 +1,22 @@
+# Title --> Compiling Sass Review
+# -------------------------------
+#
+# You should not edit the output CSS file. 
+1
+b
+
+# Which command automatically compiles SCSS to CSS anytime changes are saved?
+2
+d
+
+# Sass was originally written in which programming language?
+3
+b
+
+# What option watches for file changes and updates the CSS when a change is detected? 
+4
+d
+
+# Write the command that tells Sass to watch an 'scss' directory for changes to SCSS files, then output changes into a stylesheet inside a 'css' directory:
+5
+sass --watch scss:css
