@@ -1,0 +1,22 @@
+# Title --> Partials and Media Queries Review 
+#-------------------------------
+#
+# You can avoid repeating the values in media query expressions with: 
+1
+d
+
+# Sass compiles the contents of a partial only when imported from within a regular SCSS/Sass file, using which directive?
+2
+a
+
+# To create a partial, add an  ______ character to the beginning of the file name.
+3
+_
+
+# Each partial file creates an additional HTTP request for the browser to process.
+4
+b
+
+# Which Sass feature keeps media queries local to the original selector being modified?
+5
+c
