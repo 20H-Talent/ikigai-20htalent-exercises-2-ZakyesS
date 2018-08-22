@@ -5,6 +5,7 @@ $btn-background: #dc143c;
 @mixin button {
     font-size: 1.25em;
     background-color: $btn-background;
+    @content;
 }
 a {
     @include button;
