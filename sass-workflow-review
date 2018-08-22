@@ -1,0 +1,30 @@
+# Title --> Sass Workflow Review 
+#-------------------------------
+#
+# The _____ directive shares sets of properties by grouping the selectors sharing the same properties. 
+1
+c
+
+# _____ store groups of styles that you can use over and over again.
+2
+b
+
+# The @content directive lets you: 
+3
+a
+
+# Single-line comments beginning with ___ do not appear in the CSS output.
+4
+c
+
+#  What is the CSS output? 
+5
+b
+
+# You call a mixin using the _____ directive followed by the name of the mixin. 
+6
+c
+
+# Selectors beginning with a % always appear in the CSS output
+7
+a
