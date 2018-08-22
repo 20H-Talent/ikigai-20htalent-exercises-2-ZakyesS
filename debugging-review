@@ -1,0 +1,22 @@
+# Title --> Debugging Review
+# ---------------------------------
+#
+# Which directive works best for correcting mistakes that break the functionality of mixins and functions? 
+1
+c
+
+# What is a source map?
+2
+a
+
+# Which directive outputs a message while allowing the compiler to keep running?
+3
+a
+
+# Which of the following is a Sass source map? 
+4
+b
+
+# Which directive stops running the compiler and outputs a message when it encounters unexpected code?
+5
+d
