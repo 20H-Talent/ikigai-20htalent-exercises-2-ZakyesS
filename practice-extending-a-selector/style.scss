@@ -9,3 +9,8 @@
     font-weight: bold;
     color: red;
 }
+.message-box {
+    p {
+        @extend %warning;
+    }
+}
