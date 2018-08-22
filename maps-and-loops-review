@@ -1,0 +1,22 @@
+# Title --> Maps and Loops Review
+# -------------------------------
+#
+# A conditional begins with the ___ directive, followed by an expression that gets evaluated as either true or false.
+1
+b
+
+# Which loop repeats an action a given number of times, from a start index through an end index?
+2
+b
+
+# Which directive is used to iterate through data inside lists and maps?
+3
+c
+
+# Inside a map, you store data in: 
+4
+c
+
+# An @if statement may be followed by several ________ statements. 
+5
+b
