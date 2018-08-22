@@ -6,4 +6,6 @@ $btn-background: #dc143c;
     font-size: 1.25em;
     background-color: $btn-background;
 }
-
+a {
+    @include button;
+}
