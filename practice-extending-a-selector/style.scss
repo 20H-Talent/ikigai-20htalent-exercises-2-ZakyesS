@@ -1,0 +1,7 @@
+.roundy {
+    width: 150px;
+    border-radius: 50%;
+}
+.img-author {
+    @extend .roundy;
+}
