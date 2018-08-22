@@ -327,7 +327,13 @@
     4. **Welcome to Web Programming**
     5. **What have you learned about programming?**
     6. **Review Your Progress**
-
+    7. **Introduction to Sass Review**
+    8. **Compiling Sass Review**
+    9. **Sass Workflow Review**
+    10. **Partials and Media Queries Review**
+    11. **Functions Review**
+    12. **Maps and Loops Review**
+    13. **Debugging Review**
     ---
     ---
     
@@ -341,4 +347,39 @@
         1. Click the preview button to view the game. Currently, there are 3 stars on screen. Click the Editor button and add two more stars, bringing the total number of stars to 5. Make sure none of the stars overlap with any other stars.
         2. There are bottles of poison on screen. The player's life goes up when the player touches a bottle of poison. Change the game so the player's life count decreases by one when a bottle of poison is touched. Hint: the code to change is between lines 71 and 78.
     ---
-    3. 
+    3. **Declare and Use Variables**
+        1. Declare a variable called "color-brand" and assign it the value #*6a5acd*.
+        2. Use the 'color-brand' variable to set the color of *h1* elements.
+        3. Declare another variable called 'gutter' and set its value to *20px*.
+        4. Target the class .*col* and apply a left margin using the *gutter* variable.
+        5. Finally, target .*row* and set its bottom margin to the *gutter* variable.
+    ---
+    4. **Write Nested Selectors**
+        1. Nest a .*button* selector inside the .*banner* rule. Set the font-size of .*button* to *1.5em*.
+        2. Below the .*banner* rule (at the root level), create a new rule that targets .*icn* and set a font-size of *1.25em*.
+        3. Next, use the *&* symbol to create the selector .*icn-success*. Set the color of .*icn-success* to *green*.
+        4. Use the *&* symbol to create the selector .*icn*-warning*. Set the color of .*icn-warning* to **red*.
+    ---
+    5. **Write a Mixin**
+        1. Create a mixin called 'button' that sets *font-size* to *1.25em* and *background-color* to the variable $*btn-background*.
+        2. Next, create a new rule to specify that all `<a>` tags should include the styles defined inside the *button* mixin.
+        3. Inside the *button* mixin, write the directive that lets you pass content blocks to mixins.
+        4. Finally, pass the color value #*f0f8ff* to the *button* include.
+    ---
+    6. **Practice Extending a Selector**
+        1. Create a rule using the class .*roundy*. Give .*roundy* a width of *150px* and a border-radius of *50%*. Then, create a rule that targets .*img-author* and allow it to extend the properties of .*roundy*. 
+        2. Next, create a placeholder called *warning*. Set its *font-weight* to *bold* and *color* to *red*.
+        3. Finally, create a new rule that targets the class .*message-box*. Make sure all `<p>` tags nested inside .*message-box* extend the properties of %*warning*.
+    ---
+    7. **Write a Sass Function**
+        1. Write a function, called *px-to-rem*, that accepts the parameters $*target* and $*context*. Set the default value of $*context* to the $*base-font-size* variable
+        2. In the @*return* statement, divide $*target* by $context, and multiply it by *1rem*. This will return a *rem* value.
+        3. Finally, create a rule that targets an *h1*. Use the *px-to-rem* function to convert a *font-size* value of *60px* to a value in *rem* units.
+    ---
+    8. **Advanced Mixins Challenge**
+        1. Create a mixin called *square* that takes two arguments: one called "size" that will set the height and width, and another called "color" that will set the color of a *1px solid border*.
+        2. Make the $*color* argument optional by setting it to *black* by default.
+        3. Create a rule that targets the class *box*. Use the *square* mixin to set the height and width of .*box* to *50px* and the border color to *red*.
+        4. Switch the order of the *square* arguments. Be sure to specify the variable for each argument.
+    ---
+    9. 
